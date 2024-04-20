@@ -1,0 +1,15 @@
+.header {
+    background: #000;        
+}
+
+.header__content {
+    max-width: 1280px;
+}
+
+.header__nav {
+    padding: 0 15px;
+    height: 60px;
+    align-items: center;
+    display: flex;    
+    justify-content: space-between;
+}
